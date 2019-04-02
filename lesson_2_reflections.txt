@@ -3,3 +3,6 @@ you create hidden folders that will help to keep the track of the changes in all
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 The staging area separates what is ready to be commited to the repository, and with this you can do logical commits.
+
+How can you use the staging area to make sure you have one commit per logical change?
+in stage areas you can see all files that are selected for the commit and check if they are logically related
