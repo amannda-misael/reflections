@@ -11,3 +11,6 @@ branch - choose this one when you want to add new features or test something but
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 you can compare the differences between your local copy and the repository and your local copy of the remote and the next changes in the remote and previous see if you are out of date or not.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+i would have to collaborate in emails or pendrives. The managing of the changes would be extremally harder, and i dont see anything that could be easier. 
