@@ -3,3 +3,8 @@ when you are sharing your project with other people or you need to access it fro
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 because in some commits the new function or bug fix is not completed yet and not ready to be shared 
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+fork - choose this one when you want two repositories on GitHub and want to suggest changes to the original repository
+clones - choose this one when you want to have a local repository and do separate changes on it
+branch - choose this one when you want to add new features or test something but then will want to merge it with the master branch
